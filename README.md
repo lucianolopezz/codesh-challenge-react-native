@@ -28,5 +28,8 @@ yarn install
 yarn ios ou yarn android
 ```
 
+## Link do video
+https://www.loom.com/share/726c2f9253244b5c9288d1b69552379c
+
 ## Preview
 ![](preview.gif)
